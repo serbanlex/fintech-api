@@ -1,31 +1,17 @@
-# Fintech "Time Machine" Project
+# Fintech "Time Machine" Project - Backend API with finance purposes 
 
-<h2> Backend API - Final project for Syneto Liga AC Labs </h2>
-<h3>Features:</h3>
+This project's goal is a backend API with which a client can save different Tickers from the market and retrieve information about them, such as market cap, region or historical graphs on a given time.  
     
-    - we can get a list of possible stocks & crypto tickers we can access
-
-    - we can filter the tickers by any of the following: market cap, region, exchange, sector
-
-    - we can save tickers to our portfolio (also we can delete them)
-
-    - we can see a time history on any of the saved tickers
-
-    - we can see the time history of multiple tickers on the same graph (max 5)
-
-    - we can send the graph as an email to someone
-
-    - for a saved ticker I can check the dividends, price to earnings, market cap, high/low for a given period
-
-<h3>Code quality requirements:</h3>
+<h3>Use cases:</h3>
     
-    - clean Code
+    - the user can **save/delete** tickers in our portfolio
     
-    - apply the right design patterns
+    - the user can **get** a list the saved stocks & crypto tickers (which he can access)
 
-    - unit testing
-    
-    - integration/contract testing with the YahooAPI (https://realpython.com/testing-third-party-apis-with-mocks/)
-    
-    - logging (we should know if something fails and what actions does the app do, also measure how much do commands take)
+    - the user can **filter** the tickers by any of the following: market cap, region, exchange, sector
 
+    - the user can **get** different **information** about a saved ticker a saved ticker: the **dividends**, **price to earnings**, **market cap**, **high/low** for a given period
+
+    - the user can **get a time history** graph on one or more (max 5) of the saved tickers
+
+    - the user can **send the graph as an email** to someone
