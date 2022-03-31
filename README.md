@@ -1,4 +1,4 @@
-# Fintech "Time Machine" Project
+# Fintech "Time Machine" Backend API
 
 > This project's goal is a backend API with which a client can save different Tickers from the market and retrieve information about them, such as market cap, region or historical graphs on a given time.  
     
