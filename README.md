@@ -11,8 +11,11 @@
 
 - the user can **filter** the tickers by any of the following: market cap, region, exchange, sector
 
-- the user can **get** different **information** about a saved ticker a saved ticker: <br>
-  the **dividends**, **price to earnings**, **market cap**, **high/low** for a given period
+- the user can **get** different **information** about a saved ticker a saved ticker:
+  - dividends
+  - price to earnings
+  - market cap
+  - high/low for a given period
 
 - the user can **get a time history** graph on one or more (max 5) of the saved tickers
 
