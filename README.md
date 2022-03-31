@@ -1,7 +1,6 @@
 # Fintech "Time Machine" Project
-##Final project for Syneto Liga AC Labs<h2>
 
-<h2> Backend API</h2>
+<h2> Backend API - Final project for Syneto Liga AC Labs </h2>
 <h3>Features:</h3>
     
     - we can get a list of possible stocks & crypto tickers we can access
